@@ -38,17 +38,16 @@
 
 
 ### GitHub Stats :
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Rohit's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RohitBhalerao&show_icons=true&hide_border=true" />
+<summary>:zap: GitHub Stats</summary>
+
+<img align="left" alt="Rohit's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RohitBhalerao&show_icons=true&hide_border=true" />
   
   
-  <summary>:zap: Most used languages</summary>
-  <img align="left" alt="Rohit's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitBhalerao&layout=compact" />
+<summary>:zap: Most used languages</summary>
+<img align="left" alt="Rohit's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitBhalerao&layout=compact" />
 
-  
-
-</details>
+<br />  
+<br />  
 
 
