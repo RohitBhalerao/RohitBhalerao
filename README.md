@@ -4,7 +4,7 @@
 ## I use data to create insights that lead to successful actions and business decisions. It is super cool, ikr!!
 
 - 📍  I'm an Indian, currently based in Lille, France.
-- 🏫 MSc. Big Data Analytics at IESEG School of Mnagement, Lille.
+- 🏫 MSc. Big Data Analytics at IESEG School of Management, Lille.
 - ✔️ I’m looking for opportunities where I create high-impact goal-oriented solutions.
 - 🥅 2020 Goals: Survive a pandemic
 - ❤️ Things I love : Solving problems, football, light-hearted humor and ofcourse, Data Science.
