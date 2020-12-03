@@ -11,7 +11,7 @@
 
 ### Lo-Fi beats I listen to when working 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" width="350" />](https://www.youtube.com/watch?v=f02mOEt11OQ)
+[<img src="https://freight.cargo.site/w/500/q/94/i/c70ce548511062e17a48c1b14ac9f99db4264f8a047cefc7e1aaf731ad8f4480/daft1_1_o.gif" width="350" />](https://www.youtube.com/watch?v=f02mOEt11OQ)
 
 ### Connect with me:
 
