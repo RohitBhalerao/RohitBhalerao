@@ -25,7 +25,6 @@
 <img align="left" alt="R" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img align="left" alt="Shiny" width="70px" src="https://raw.githubusercontent.com/rstudio/shiny/master/man/figures/logo.png" />
 <img align ="left" alt = "Tableau" height="70" width="70" src="https://unpkg.com/simple-icons@v3/icons/tableau.svg" />
-<img align ="left" alt = "PowerBI" height="70" width="70" src="https://unpkg.com/simple-icons@v3/icons/powerbi.svg" />
 <img align="left" alt="Anaconda" height="70" width="70" src="https://unpkg.com/simple-icons@v3/icons/anaconda.svg"> 
 <img align="left" alt="Jupyter" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 <img align="left" alt="SAS" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" />
@@ -33,7 +32,6 @@
 <img align="left" alt="SQL" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="70px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />
