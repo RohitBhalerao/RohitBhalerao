@@ -9,15 +9,21 @@
 - 🥅 2020 Goals: Survive a pandemic
 - ❤️ Things I love : Solving problems, football, light-hearted humor and ofcourse, Data Science.
 
+-----
+
 ### Lo-Fi beats I listen to when working 🎧
 
 [<img src="https://freight.cargo.site/w/500/q/94/i/c70ce548511062e17a48c1b14ac9f99db4264f8a047cefc7e1aaf731ad8f4480/daft1_1_o.gif" width="350" />](https://www.youtube.com/watch?v=f02mOEt11OQ)
+
+-----
 
 ### Connect with me:
 
 [<img align="left" alt="Rohit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rohit-bhalerao/)
 [<img align="left" alt="Rohit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/thatguyrohitt?igshid=tx3zgdosb5mg)
 <br />
+
+-----
 
 ### Languages and Tools:
 
@@ -36,18 +42,16 @@
 <br />
 <br />
 
+-----
 
 ### GitHub Stats :
 
-<summary>:zap: GitHub Stats</summary>
-
-<img align="left" alt="Rohit's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RohitBhalerao&show_icons=true&hide_border=true" />
+   <a href = "">
+      <img align="center" height='178px' src="https://github-readme-stats.vercel.app/api?username=RohitBhalerao&show_icons=true&theme=buefy" />
+  </a>
   
-  
-<summary>:zap: Most used languages</summary>
-<img align="left" alt="Rohit's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitBhalerao&layout=compact" />
-
-<br />  
-<br />  
+  <a href = "">
+      <img align="center" height='178px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitBhalerao&layout=compact&theme=buefy" />
+  </a>
 
 
