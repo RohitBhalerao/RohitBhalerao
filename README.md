@@ -1,7 +1,4 @@
 
-<!--
-**RohitBhalerao/RohitBhalerao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hello, I'm Rohit! 👋
 
 ## I use data to create insights that lead to successful actions and business decisions. It is super cool, ikr!!
