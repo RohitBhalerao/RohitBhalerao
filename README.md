@@ -15,11 +15,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Rohit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](linkedin)
-[<img align="left" alt="Rohit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](instagram]
-[linkedin] : https://www.linkedin.com/in/rohit-bhalerao/
-[instagram] : https://instagram.com/thatguyrohitt?igshid=tx3zgdosb5mg
-
+[<img align="left" alt="Rohit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rohit-bhalerao/)
+[<img align="left" alt="Rohit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/thatguyrohitt?igshid=tx3zgdosb5mg)
 <br />
 
 ### Languages and Tools:
