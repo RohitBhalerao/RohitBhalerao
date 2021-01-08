@@ -6,7 +6,7 @@
 - 📍  I'm an Indian, currently based in Lille, France.
 - 🏫 MSc. Big Data Analytics at IESEG School of Management, Lille.
 - ✔️ I’m looking for opportunities where I create high-impact goal-oriented solutions.
-- 🥅 2020 Goals: Survive a pandemic
+- 🥅 2021 Goals: Survive a pandemic
 - ❤️ Things I love : Solving problems, football, light-hearted humor and ofcourse, Data Science.
 
 -----
