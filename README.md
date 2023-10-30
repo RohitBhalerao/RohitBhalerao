@@ -1,13 +1,14 @@
 
 ### Hello, I'm Rohit! 👋
 
-## I use data to create insights that lead to successful actions and business decisions. It is super cool, ikr!!
+## I use cloud technologies and big data infrastructure to manage my organizations data, and make it available for data-driven teams to use.
+## I use data to create insights that lead to successful actions and business decisions.
 
-- 📍  I'm an Indian, currently based in Lille, France.
-- 🏫 MSc. Big Data Analytics at IESEG School of Management, Lille.
-- ✔️ I’m looking for opportunities where I create high-impact goal-oriented solutions.
-- 🥅 2021 Goals: Survive a pandemic
-- ❤️ Things I love : Solving problems, football, light-hearted humor and ofcourse, Data Science.
+- 📍  I'm an Indian, currently based in Paris, France.
+- 🏫 MSc. Big Data Analytics at the Lille Catholic University & Business studies at IESEG School of Management.
+- I’m working at www.ankorstore.com as a data and analytics engineer.
+- 🥅 2024 Goals: Climb a mountain 5500 metres in altitude and help ankorstore reduce google cloud costs by 30%
+- ❤️ Things I love : Solving problems, sports and ofcourse, Data Technology.
 
 -----
 
